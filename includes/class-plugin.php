@@ -34,7 +34,7 @@ final class Plugin {
 			WPPB_PLUGIN_SLUG,
 			WPPB_PLUGIN . '/assets/css/styles.min.css',
 			[],
-		  $assets_v,
+		  $assets_v
 		);
     wp_enqueue_style( WPPB_PLUGIN_SLUG );
 
