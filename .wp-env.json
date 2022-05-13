@@ -1,0 +1,9 @@
+{
+  "core": "https://es.wordpress.org/latest-es_ES.zip",
+  "plugins": [ "." ],
+  "config": {
+    "WP_DEBUG_DISPLAY": true
+  },
+  "phpVersion": null
+}
+
